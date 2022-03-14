@@ -26,7 +26,7 @@ type NewTodoProps = {
     return (
       <form onSubmit={todoSubmitHandler}>
         <div className="form-control">
-          <label htmlFor="todo-text">Todo Text</label>
+          <label htmlFor="todo-text">Things to do</label>
           <input
             type="text"
             id="todo-text"

@@ -1,7 +1,8 @@
-html {
-  font-family: 'Lato', sans-serif;
-}
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 
 body {
   margin: 0;
+  background-color: honeydew;
+  color: #333;
+  font-family: 'Raleway', sans-serif;
 }
